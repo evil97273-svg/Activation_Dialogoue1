@@ -19,5 +19,12 @@
         "password": "Afzal@modder",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4d0c5f7b3b6fe812",
+        "username": "Afzal@king",
+        "password": "Afzal@modder",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
